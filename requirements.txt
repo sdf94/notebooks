@@ -3,3 +3,4 @@ plotly
 pandas==1.2.3
 openpyxl
 xlrd
+matplotlib
